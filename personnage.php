@@ -20,6 +20,25 @@
             $this->items = $items;
         }
 
+        public function getName(){
+            return $this -> name;
+        }
+        public function getHealth_Point(){
+            return $this -> health_point;
+        }
+        public function getAttack(){
+            return $this -> attack;
+        }
+        public function getDefense(){
+            return $this -> defense;
+        }
+        public function getMana(){
+            return $this -> mana;
+        }
+        public function getItems(){
+            return $this -> items;
+        }
+
 
 
 
