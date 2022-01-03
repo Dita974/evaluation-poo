@@ -20,6 +20,9 @@
             $this->items = $items;
         }
 
+
+        //GETTERS :
+
         public function getName(){
             return $this -> name;
         }
@@ -39,11 +42,14 @@
             return $this -> items;
         }
 
-        // Function pour créer de nouveaux items :
+        // SETTERS :
         // 
         // public function setItem($item){
         //     return $this -> item = $item;
         // }
+
+
+        //METHODS :
 
 
 
