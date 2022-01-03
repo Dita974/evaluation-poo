@@ -39,6 +39,12 @@
             return $this -> items;
         }
 
+        // Function pour créer de nouveaux items :
+        // 
+        // public function setItem($item){
+        //     return $this -> item = $item;
+        // }
+
 
 
 
